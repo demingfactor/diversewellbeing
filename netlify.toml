@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/*"
+  to = "https://diverse-wellbeing.notion.site/diverse-wellbeing/Diverse-Wellbeing-Collective-e9252aba531b4ae0b7920f7b35de3237"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
